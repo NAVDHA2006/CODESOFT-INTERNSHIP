@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="landingpage.css">
+    <title>Samsung </title>
+</head>
+<body>
+    <header>
+        <h1 class="a">Welcome to Samsung</h1>
+        <p class="b">Innovating for a better tomorrow.</p>
+    </header>
+    <img src="photo2.jpeg" alt="Samsung Innovations" class="image">
+    <section class="one">
+        
+        <div>
+            <h3 class="b">Empowering your life with technology</h3>
+            
+        </div>
+    </section>
+<img src="photo.jpg" alt="Samsung Innovations" class="image1">
+<h2 style="text-align: center;">FEATURES</h2>
+    <section class="features">
+        
+        <div class="feature">
+            <h3>📸 Stunning Camera</h3>
+            <p>Take breathtaking photos with our 200MP camera.</p>
+        </div>
+        <div class="feature">
+            <h3>⚡ Lightning-Fast Performance</h3>
+            <p>Powered by the latest Snapdragon processor for seamless multitasking.</p>
+        </div>
+        <div class="feature">
+            <h3>🔋 All-Day Battery Life</h3>
+            <p>Stay connected longer with our powerful battery.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Samsung. All rights reserved. Follow us on 
+            <a href="#" class="social-link">Instagram</a> | 
+            <a href="#" class="social-link">Facebook</a>
+        </p>
+    </footer>
+</body>
+</html>
