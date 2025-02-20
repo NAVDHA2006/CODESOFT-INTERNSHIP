@@ -1,0 +1,60 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: #333;
+}
+
+header {
+    background-color: #1428A0; /* Samsung Blue */
+    color: white;
+    text-align: center;
+    padding: 60px 50px;
+    font-family:Cambria ;
+}
+
+.one {
+    position: relative;
+    text-align: center;
+    font-family:Lucida Sans Typewriter;
+    background: linear-gradient(to right, mediumorchid, cornflowerblue, lightcoral);
+}
+.image {
+    width: 100%;
+    height: 150px;
+}
+.image1 {
+    width: 100%;
+    height: auto;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    margin-right:-20px;
+    padding: 40px 20px;
+    background: white;
+}
+
+.feature {
+    background:rgb(255, 228, 225);
+    border-radius: 12px;
+    padding: 25px;
+    width: 150px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.feature:hover {
+    background: #bbdefb;
+    transform: scale(1.25);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #333;
+    background-color: white;
+}
